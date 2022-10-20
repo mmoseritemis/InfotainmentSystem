@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="MethodConfiguration.RiskModel__RiskModelDescriptor_8720e696_0fac_4176_a4dc_80083fb5401b">
+    <classNode dependClassName="com.moraad.core.runtime.propagation.AEInfo" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.DCInfo" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.DTInfo" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.IAEDTAggregator" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.IDamageAggregator" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.ILMaxAggregator" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.IPropagatedDP" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.PropagatingDP" />
+    <classNode dependClassName="com.moraad.core.runtime.propagation.RFInfo" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.MapSequence" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="com.moraad.core.runtime.propagation.RiskModelDescriptor" />
+  </dependency>
+</dependenciesRoot>
+

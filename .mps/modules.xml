@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/ISO21434/ISO21434.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/InfotainmentFeature/InfotainmentFeature.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/Off-Board_Infotainment/Off-Board_Infotainment.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/On-Board Infotainment/On-Board Infotainment.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
