@@ -482,7 +482,7 @@
     <node concept="2x4$T9" id="4ZIixnyU4oB" role="2xH1$J" />
     <node concept="2zhWjs" id="4ZIixnyU6pm" role="2lbk3h">
       <property role="TrG5h" value="D.1" />
-      <property role="DVXpC" value="Firmware" />
+      <property role="DVXpC" value="New Firmware" />
       <node concept="3VMn$a" id="4ZIixnyU6pn" role="2JHqPs" />
     </node>
     <node concept="2zhWjs" id="4ZIixnyU6tF" role="2lbk3h">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="InfotainmentFeature" uuid="471c02ea-1b22-4ebe-b93a-68e30eb9f0cb" moduleVersion="0" compileInMPS="true">
+<solution name="Infotainment_Firmware_Update_Feature" uuid="861848fa-2d65-46bd-a597-a4131d7dbe5a" moduleVersion="0" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -11,7 +11,6 @@
   <sourcePath />
   <dependencies>
     <dependency reexport="false">21d9e997-41a0-4c49-a4fa-5a7a165dedbf(ISO21434)</dependency>
-    <dependency reexport="false">881e20ff-4c7c-4d8a-88c1-6b0b7eec51b4(On-Board Infotainment)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:d4280a54-f6df-4383-aa41-d1b2bffa7eb1:com.mbeddr.core.base" version="5" />
@@ -61,8 +60,7 @@
   </languageVersions>
   <dependencyVersions>
     <module reference="21d9e997-41a0-4c49-a4fa-5a7a165dedbf(ISO21434)" version="0" />
-    <module reference="471c02ea-1b22-4ebe-b93a-68e30eb9f0cb(InfotainmentFeature)" version="0" />
-    <module reference="881e20ff-4c7c-4d8a-88c1-6b0b7eec51b4(On-Board Infotainment)" version="0" />
+    <module reference="861848fa-2d65-46bd-a597-a4131d7dbe5a(Infotainment_Firmware_Update_Feature)" version="0" />
     <module reference="8f16104e-22e6-406d-8251-ef9688474557(com.mbeddr.mpsutil.refactoring.rt)" version="0" />
     <module reference="c0c29873-b2f7-413b-b508-0ba5b325a1d0(com.moraad.core.runtime)" version="0" />
     <module reference="b4294564-6583-4f72-81aa-5b6fc2f1be67(de.itemis.mps.commons.runtime)" version="0" />
