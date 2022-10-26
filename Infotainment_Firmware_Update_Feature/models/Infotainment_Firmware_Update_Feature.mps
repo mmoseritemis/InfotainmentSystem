@@ -35,6 +35,7 @@
       <concept id="1744555010776338337" name="com.moraad.suggestions.structure.RelationAssistantSelector" flags="ng" index="khAwF" />
       <concept id="1744555010776336880" name="com.moraad.suggestions.structure.DamageScenarioAssistantSelector" flags="ng" index="khATU" />
       <concept id="1744555010776327868" name="com.moraad.suggestions.structure.ThreatScenarioAssistantSelector" flags="ng" index="khC4Q" />
+      <concept id="7912218231014613968" name="com.moraad.suggestions.structure.AssAcceptedSuggestion" flags="ng" index="pcNHv" />
       <concept id="114192864337941166" name="com.moraad.suggestions.structure.AssAdditionDamageScenarioAssistantSuggestion" flags="ng" index="raIdw" />
       <concept id="1920997147008949188" name="com.moraad.suggestions.structure.RiskAssistantSelector" flags="ng" index="CEhHY" />
       <concept id="1920997147009089272" name="com.moraad.suggestions.structure.AssRiskSuggestionFactory" flags="ng" index="CENT2" />
@@ -204,6 +205,9 @@
         <child id="5631921252374721129" name="damageCriteriaForClassAssignments" index="1WV2zz" />
       </concept>
       <concept id="1010266934660147201" name="com.moraad.core.structure.DamageScenarioRef" flags="ng" index="2AI9xH" />
+      <concept id="227120341088952049" name="com.moraad.core.structure.Risk" flags="ng" index="KYrDe">
+        <child id="8127657721944275174" name="definingElements" index="2WIsl4" />
+      </concept>
       <concept id="8071121944254209035" name="com.moraad.core.structure.DamageScenarioContentSelector" flags="ng" index="U8VUI" />
       <concept id="3384350556523615565" name="com.moraad.core.structure.ThreatClassRef" flags="ng" index="122ZmF" />
       <concept id="3384350556523616640" name="com.moraad.core.structure.ISecABasicElementRef" flags="ng" index="122Z_A">
@@ -4244,6 +4248,41 @@
     <property role="3GE5qa" value="Security Analysis" />
     <node concept="19qcqd" id="4ZIixnzkkYF" role="2vPz$N" />
     <node concept="2xx57O" id="4ZIixnzkkYG" role="2xH1$J" />
+    <node concept="KYrDe" id="3HiGSx26Zp$" role="2vPz$N">
+      <property role="TrG5h" value="R.1" />
+      <node concept="3VMn$a" id="3HiGSx26Zp_" role="2JHqPs" />
+      <node concept="3$cmbp" id="3HiGSx26ZpA" role="2WIsl4">
+        <ref role="122Z_O" node="1CI_7HOtXAr" resolve="TS.1" />
+      </node>
+    </node>
+    <node concept="KYrDe" id="3HiGSx26Zq6" role="2vPz$N">
+      <property role="TrG5h" value="R.2" />
+      <node concept="3VMn$a" id="3HiGSx26Zq7" role="2JHqPs" />
+      <node concept="3$cmbp" id="3HiGSx26Zq8" role="2WIsl4">
+        <ref role="122Z_O" node="1CI_7HOtXMP" resolve="TS.2" />
+      </node>
+    </node>
+    <node concept="KYrDe" id="3HiGSx26ZqF" role="2vPz$N">
+      <property role="TrG5h" value="R.3" />
+      <node concept="3VMn$a" id="3HiGSx26ZqG" role="2JHqPs" />
+      <node concept="3$cmbp" id="3HiGSx26ZqH" role="2WIsl4">
+        <ref role="122Z_O" node="1CI_7HOtXZp" resolve="TS.3" />
+      </node>
+    </node>
+    <node concept="KYrDe" id="3HiGSx26Zrj" role="2vPz$N">
+      <property role="TrG5h" value="R.4" />
+      <node concept="3VMn$a" id="3HiGSx26Zrk" role="2JHqPs" />
+      <node concept="3$cmbp" id="3HiGSx26Zrl" role="2WIsl4">
+        <ref role="122Z_O" node="1CI_7HOu9rp" resolve="TS.4" />
+      </node>
+    </node>
+    <node concept="KYrDe" id="3HiGSx26ZrY" role="2vPz$N">
+      <property role="TrG5h" value="R.5" />
+      <node concept="3VMn$a" id="3HiGSx26ZrZ" role="2JHqPs" />
+      <node concept="3$cmbp" id="3HiGSx26Zs0" role="2WIsl4">
+        <ref role="122Z_O" node="1CI_7HOu9sh" resolve="TS.5" />
+      </node>
+    </node>
   </node>
   <node concept="2H3I8p" id="4ZIixnzkkYH">
     <property role="TrG5h" value="UN R155 Threats" />
@@ -4631,7 +4670,47 @@
   <node concept="2Q15JU" id="4ZIixnzkl0O">
     <property role="3GE5qa" value="Assistants" />
     <node concept="CEhHY" id="4ZIixnzkl0P" role="kmFqQ" />
-    <node concept="CENT2" id="4ZIixnzkl0Q" role="2Q$E0J" />
+    <node concept="CENT2" id="4ZIixnzkl0Q" role="2Q$E0J">
+      <node concept="3aHhih" id="3HiGSx26Zoe" role="3N3N22">
+        <property role="3aHm6j" value="" />
+        <property role="133MFP" value="" />
+        <node concept="2Q16Lc" id="3HiGSx26Zoj" role="3aHmvd">
+          <ref role="2ClQv0" node="1CI_7HOtXAr" resolve="TS.1" />
+          <node concept="pcNHv" id="3HiGSx26ZpS" role="2QGid4">
+            <ref role="2ClRH1" node="3HiGSx26Zp$" resolve="R.1" />
+            <ref role="2Dj$GC" node="1CI_7HOtXAr" resolve="TS.1" />
+          </node>
+        </node>
+        <node concept="2Q16Lc" id="3HiGSx26Zol" role="3aHmvd">
+          <ref role="2ClQv0" node="1CI_7HOtXMP" resolve="TS.2" />
+          <node concept="pcNHv" id="3HiGSx26Zqs" role="2QGid4">
+            <ref role="2ClRH1" node="3HiGSx26Zq6" resolve="R.2" />
+            <ref role="2Dj$GC" node="1CI_7HOtXMP" resolve="TS.2" />
+          </node>
+        </node>
+        <node concept="2Q16Lc" id="3HiGSx26Zon" role="3aHmvd">
+          <ref role="2ClQv0" node="1CI_7HOtXZp" resolve="TS.3" />
+          <node concept="pcNHv" id="3HiGSx26Zr3" role="2QGid4">
+            <ref role="2ClRH1" node="3HiGSx26ZqF" resolve="R.3" />
+            <ref role="2Dj$GC" node="1CI_7HOtXZp" resolve="TS.3" />
+          </node>
+        </node>
+        <node concept="2Q16Lc" id="3HiGSx26Zop" role="3aHmvd">
+          <ref role="2ClQv0" node="1CI_7HOu9rp" resolve="TS.4" />
+          <node concept="pcNHv" id="3HiGSx26ZrH" role="2QGid4">
+            <ref role="2ClRH1" node="3HiGSx26Zrj" resolve="R.4" />
+            <ref role="2Dj$GC" node="1CI_7HOu9rp" resolve="TS.4" />
+          </node>
+        </node>
+        <node concept="2Q16Lc" id="3HiGSx26Zor" role="3aHmvd">
+          <ref role="2ClQv0" node="1CI_7HOu9sh" resolve="TS.5" />
+          <node concept="pcNHv" id="3HiGSx26Zsq" role="2QGid4">
+            <ref role="2ClRH1" node="3HiGSx26ZrY" resolve="R.5" />
+            <ref role="2Dj$GC" node="1CI_7HOu9sh" resolve="TS.5" />
+          </node>
+        </node>
+      </node>
+    </node>
   </node>
   <node concept="2lbcm6" id="4ZIixnyTOms">
     <property role="TrG5h" value="Functions" />
