@@ -10,16 +10,23 @@ import com.moraad.core.runtime.propagation.IPropagatedDP;
 import com.moraad.core.runtime.propagation.PropagatingDP;
 import com.moraad.core.runtime.propagation.DCInfo;
 import com.moraad.core.runtime.propagation.ILMaxAggregator;
-import com.moraad.core.runtime.propagation.IAEDTAggregator;
-import com.moraad.core.runtime.propagation.AEInfo;
-import com.moraad.core.runtime.propagation.DTInfo;
-import com.moraad.core.runtime.propagation.RFInfo;
+import io.yakindu.ysec.lib.RatingsAggregator;
+import org.jetbrains.annotations.Nullable;
+import io.yakindu.ysec.lib.AFLevel;
+import java.util.List;
+import io.yakindu.ysec.lib.AFRating;
+import org.jetbrains.annotations.NotNull;
+import io.yakindu.ysec.lib.FeasibilityModel_RT;
+import io.yakindu.ysec.lib.DefaultRatingsAggregator;
+import io.yakindu.ysec.lib.FeasibilityCombinator;
+import io.yakindu.ysec.lib.AbstractAttackFeasibility;
+import io.yakindu.ysec.lib.DefaultFeasibilityCombinator;
 
 public class RiskModel__RiskModelDescriptor_8720e696_0fac_4176_a4dc_80083fb5401b extends RiskModelDescriptor {
 
   @Override
   public String getInfo() {
-    String info = "model: " + "r:8720e696-0fac-4176-a4dc-80083fb5401b(MethodConfiguration) in IdeaFile[path: C:/Itemis/Gitlab/InfotainmentSystem/ISO21434/models/MethodConfiguration.mps]" + "\n";
+    String info = "model: " + "r:8720e696-0fac-4176-a4dc-80083fb5401b(MethodConfiguration) in IdeaFile[path: C:/Users/mattm/SECUREProjects/InfotainmentSystem/ISO21434/models/MethodConfiguration.mps]" + "\n";
     info += "module: " + "ISO21434";
     return info;
   }
@@ -36,18 +43,18 @@ public class RiskModel__RiskModelDescriptor_8720e696_0fac_4176_a4dc_80083fb5401b
         return new ILMaxAggregator(false).aggregateIL(damageCriteria, _riskModel);
       }
     });
-    MapSequence.fromMap(_effortAggregators).put("Acc", new IAEDTAggregator() {
+    MapSequence.fromMap(ratingAggregators).put("Acc", new RatingsAggregator() {
+      @Nullable
       @Override
-      public AEInfo combineAE(AEInfo attackEffortA, AEInfo attackEffortB) {
-        return AEInfo.getDefaultAttackEffortCombination(attackEffortA, attackEffortB, _riskModel);
+      public AFLevel aggregateAFRatings(@Nullable List<AFRating> p0, @NotNull FeasibilityModel_RT p1) {
+        return DefaultRatingsAggregator.INSTANCE.aggregateAFRatings(p0, p1);
       }
+    });
+    MapSequence.fromMap(feasibilityCombinators).put("Acc", new FeasibilityCombinator() {
+      @Nullable
       @Override
-      public DTInfo combineDT(DTInfo damageTransformA, DTInfo damageTransformB) {
-        return DTInfo.getDefaultDamageTransformationCombination(damageTransformA, damageTransformB, _riskModel);
-      }
-      @Override
-      public SNode aggregateRF(RFInfo riskFactors) {
-        return RFInfo.getDefaultAttackEffort(riskFactors, _riskModel);
+      public List<AFRating> combineAF(@NotNull List<? extends AbstractAttackFeasibility> p0, @NotNull FeasibilityModel_RT p1) {
+        return DefaultFeasibilityCombinator.INSTANCE.combineAF(p0, p1);
       }
     });
   }

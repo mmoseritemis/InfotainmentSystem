@@ -11,7 +11,21 @@
     <language id="028969a3-7835-44e7-99c9-9cc9e12c2778" name="de.itemis.ysec.methodConfiguration">
       <concept id="6006699537885391512" name="de.itemis.ysec.methodConfiguration.structure.SecurityGoalClassRef" flags="ng" index="3RtnZZ" />
     </language>
+    <language id="77390b0e-ab69-4de7-a036-d557f81b479e" name="de.itemis.ysec.catalog.technologies">
+      <concept id="43924267856615948" name="de.itemis.ysec.catalog.technologies.structure.EmptyTechnologiesCatalogContent" flags="ng" index="2e0drJ" />
+      <concept id="3517148917927860064" name="de.itemis.ysec.catalog.technologies.structure.ITaggedWithTechnologies" flags="ng" index="1jWzGI">
+        <child id="3260991312724860420" name="technologies" index="1BQc1m" />
+      </concept>
+      <concept id="7473959397022733243" name="de.itemis.ysec.catalog.technologies.structure.TechnologiesCatalog" flags="ng" index="1EwOn2">
+        <child id="7473959397023022657" name="technologies" index="1ExMwS" />
+      </concept>
+      <concept id="7473959397022778362" name="de.itemis.ysec.catalog.technologies.structure.Technology" flags="ng" index="1Ex9m3" />
+      <concept id="7473959397023084950" name="de.itemis.ysec.catalog.technologies.structure.TechnologyRef" flags="ng" index="1EY2vJ" />
+    </language>
     <language id="edd58c45-9999-4ad9-8f8a-e0d26da1cbc9" name="de.itemis.ysec.commons">
+      <concept id="3384350556523616640" name="de.itemis.ysec.commons.structure.ISecABasicElementRef" flags="ng" index="122Z_A">
+        <reference id="3384350556523616658" name="target" index="122Z_O" />
+      </concept>
       <concept id="2596867816763073964" name="de.itemis.ysec.commons.structure.IDescribed" flags="ng" index="1ALOwD">
         <child id="7057631560081871838" name="description" index="2JHqPs" />
       </concept>
@@ -20,6 +34,7 @@
       </concept>
     </language>
     <language id="d66daea8-e7a8-4305-aeaa-7ca535d07bd3" name="com.moraad.projectinfo">
+      <concept id="9003278715588766811" name="com.moraad.projectinfo.structure.EmptyProjectInfoContent" flags="ng" index="$sJSh" />
       <concept id="9003278715588766803" name="com.moraad.projectinfo.structure.ProjectInfoListEntry" flags="ng" index="$sJSp">
         <child id="459042386150007873" name="freetextValue" index="X3RNv" />
       </concept>
@@ -27,6 +42,9 @@
         <child id="9003278715588979763" name="listEntries" index="$tzTT" />
       </concept>
       <concept id="4299407153799527256" name="com.moraad.projectinfo.structure.ProjectInfoTable" flags="ng" index="39leHu" />
+      <concept id="7449413747451491361" name="com.moraad.projectinfo.structure.ProjectInfoChunk" flags="ng" index="3eC5pO">
+        <child id="9003278715588858344" name="projectInfoContent" index="$s4ey" />
+      </concept>
     </language>
     <language id="048a18dc-8dce-4fe2-8e99-0a16464f630c" name="de.itemis.mps.editor.freetext">
       <concept id="8926592809623411165" name="de.itemis.mps.editor.freetext.structure.BasicParagraph" flags="ng" index="3VMn$0">
@@ -59,7 +77,6 @@
     </language>
     <language id="2bca1aa3-c113-4542-8ac2-2a6a30636981" name="com.moraad.core">
       <concept id="43924267842311384" name="com.moraad.core.structure.EmptyControlsCatalogContent" flags="ng" index="2dnDwV" />
-      <concept id="9003278715588766811" name="com.moraad.core.structure.EmptyProjectInfoContent" flags="ng" index="$sJSh" />
       <concept id="8150812653241196690" name="com.moraad.core.structure.SecurityControlClass" flags="ng" index="EbI1Y">
         <child id="8278271381841453218" name="protectsAgainst" index="1u4Rdk" />
         <child id="8278271381841453214" name="architectureElements" index="1u4RdC" />
@@ -70,25 +87,11 @@
         <child id="6006699537885399153" name="initialRiskFactors" index="3RtpOm" />
       </concept>
       <concept id="3384350556523615565" name="com.moraad.core.structure.ThreatClassRef" flags="ng" index="122ZmF" />
-      <concept id="3384350556523616640" name="com.moraad.core.structure.ISecABasicElementRef" flags="ng" index="122Z_A">
-        <reference id="3384350556523616658" name="target" index="122Z_O" />
-      </concept>
       <concept id="3384350556533323995" name="com.moraad.core.structure.ComponentSecurityTarget" flags="ng" index="13pXwX" />
-      <concept id="7449413747451491361" name="com.moraad.core.structure.ProjectInfoChunk" flags="ng" index="3eC5pO">
-        <child id="9003278715588858344" name="projectInfoContent" index="$s4ey" />
-      </concept>
       <concept id="6793729118883371978" name="com.moraad.core.structure.DataFlowSecurityTarget" flags="ng" index="3h3ntD" />
-      <concept id="3517148917927860064" name="com.moraad.core.structure.ITaggedWithTechnologies" flags="ng" index="1jWzGI">
-        <child id="3260991312724860420" name="technologies" index="1BQc1m" />
-      </concept>
       <concept id="8278271381841446327" name="com.moraad.core.structure.SecurityControlsCatalog" flags="ng" index="1u4Pp1">
         <child id="8278271381841446329" name="controlClasses" index="1u4Ppf" />
       </concept>
-      <concept id="7473959397022733243" name="com.moraad.core.structure.TechnologiesCatalog" flags="ng" index="1EwOn2">
-        <child id="7473959397023022657" name="technologies" index="1ExMwS" />
-      </concept>
-      <concept id="7473959397022778362" name="com.moraad.core.structure.Technology" flags="ng" index="1Ex9m3" />
-      <concept id="7473959397023084950" name="com.moraad.core.structure.TechnologyRef" flags="ng" index="1EY2vJ" />
       <concept id="6006699537884559085" name="com.moraad.core.structure.ThreatClass" flags="ng" index="3Rgaea">
         <child id="6006699537885399031" name="architectureElements" index="3Rtpag" />
         <child id="6006699537885399026" name="threatenedSecurityGoalClasses" index="3Rtpal" />
@@ -159,18 +162,18 @@
         <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
       </node>
       <node concept="3WX1Ss" id="7gwHXN$9zGp" role="1u4RdC" />
-      <node concept="1EY2vJ" id="20XTM5DF8ea" role="1BQc1m">
-        <ref role="122Z_O" node="4NAzM1S$I_U" resolve="CAN" />
-      </node>
-      <node concept="1EY2vJ" id="20XTM5DaykU" role="1BQc1m">
-        <ref role="122Z_O" node="4NAzM1S$I_K" resolve="TCP/IP" />
-      </node>
       <node concept="3VMn$a" id="6SApaoml3Gw" role="2JHqPs" />
       <node concept="Pj2EL" id="62SXMMNEGXO" role="lGtFl">
         <node concept="Pj2EY" id="62SXMMNEGXW" role="Pj2E$">
           <property role="Pj2EV" value="CC.1" />
           <property role="Pj2ET" value="com.itemis.secure/excel" />
         </node>
+      </node>
+      <node concept="1EY2vJ" id="20XTM5DF8ea" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_U" resolve="CAN" />
+      </node>
+      <node concept="1EY2vJ" id="20XTM5DaykU" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_K" resolve="TCP/IP" />
       </node>
     </node>
     <node concept="EbI1Y" id="4CQftq3lQwU" role="1u4Ppf">
@@ -329,85 +332,6 @@
       </node>
     </node>
     <node concept="2dnDwV" id="3t9jbUDg32Y" role="1u4Ppf" />
-  </node>
-  <node concept="1EwOn2" id="4NAzM1S$HE4">
-    <property role="3GE5qa" value="" />
-    <property role="TrG5h" value="Technologies" />
-    <node concept="1Ex9m3" id="4NAzM1S$I_K" role="1ExMwS">
-      <property role="TrG5h" value="TCP/IP" />
-      <property role="DVXpC" value="Internet Protocols" />
-      <node concept="3VMn$a" id="oIZxX6l30_" role="2JHqPs">
-        <node concept="3VMn$0" id="oIZxX6l30A" role="3VMn$6">
-          <node concept="3VMn$7" id="oIZxX6l30B" role="3VMn$3">
-            <property role="3VMn$Y" value="Family" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30C" role="3VMn$3">
-            <property role="3VMn$Y" value="of" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30D" role="3VMn$3">
-            <property role="3VMn$Y" value="Internet" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30E" role="3VMn$3">
-            <property role="3VMn$Y" value="Protocols" />
-          </node>
-        </node>
-      </node>
-      <node concept="Pj2EL" id="62SXMMNEGYy" role="lGtFl">
-        <node concept="Pj2EY" id="62SXMMNEGYB" role="Pj2E$">
-          <property role="Pj2ET" value="com.itemis.secure/excel" />
-          <property role="Pj2EV" value="TCP/IP" />
-        </node>
-      </node>
-    </node>
-    <node concept="1Ex9m3" id="4NAzM1S$I_U" role="1ExMwS">
-      <property role="TrG5h" value="CAN" />
-      <property role="DVXpC" value="Controller Area Network" />
-      <node concept="3VMn$a" id="oIZxX6l30F" role="2JHqPs">
-        <node concept="3VMn$0" id="oIZxX6l30G" role="3VMn$6">
-          <node concept="3VMn$7" id="oIZxX6l30H" role="3VMn$3">
-            <property role="3VMn$Y" value="Automotive" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30I" role="3VMn$3">
-            <property role="3VMn$Y" value="Bus" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30J" role="3VMn$3">
-            <property role="3VMn$Y" value="Technology" />
-          </node>
-        </node>
-      </node>
-      <node concept="Pj2EL" id="62SXMMNEGYD" role="lGtFl">
-        <node concept="Pj2EY" id="62SXMMNEGYI" role="Pj2E$">
-          <property role="Pj2ET" value="com.itemis.secure/excel" />
-          <property role="Pj2EV" value="CAN" />
-        </node>
-      </node>
-    </node>
-    <node concept="1Ex9m3" id="4NAzM1S$I_u" role="1ExMwS">
-      <property role="TrG5h" value="mobile" />
-      <property role="DVXpC" value="Wireless Mobile Communication" />
-      <node concept="3VMn$a" id="oIZxX6l30K" role="2JHqPs">
-        <node concept="3VMn$0" id="oIZxX6l30L" role="3VMn$6">
-          <node concept="3VMn$7" id="oIZxX6l30M" role="3VMn$3">
-            <property role="3VMn$Y" value="For" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30N" role="3VMn$3">
-            <property role="3VMn$Y" value="example" />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30O" role="3VMn$3">
-            <property role="3VMn$Y" value="UMTS," />
-          </node>
-          <node concept="3VMn$7" id="oIZxX6l30P" role="3VMn$3">
-            <property role="3VMn$Y" value="GSM" />
-          </node>
-        </node>
-      </node>
-      <node concept="Pj2EL" id="62SXMMNEGYK" role="lGtFl">
-        <node concept="Pj2EY" id="62SXMMNEGYM" role="Pj2E$">
-          <property role="Pj2ET" value="com.itemis.secure/excel" />
-          <property role="Pj2EV" value="mobile" />
-        </node>
-      </node>
-    </node>
   </node>
   <node concept="3RoBDJ" id="4CQftq3lQlh">
     <property role="TrG5h" value="Threat Classes" />
@@ -2108,8 +2032,88 @@
       </node>
     </node>
   </node>
+  <node concept="1EwOn2" id="4NAzM1S$HE4">
+    <property role="TrG5h" value="Technologies" />
+    <property role="3GE5qa" value="" />
+    <node concept="2e0drJ" id="1hO7Wi9cJrV" role="1ExMwS" />
+    <node concept="1Ex9m3" id="4NAzM1S$I_K" role="1ExMwS">
+      <property role="TrG5h" value="TCP/IP" />
+      <property role="DVXpC" value="Internet Protocols" />
+      <node concept="3VMn$a" id="1hO7Wi9cJrv" role="2JHqPs">
+        <node concept="3VMn$0" id="1hO7Wi9cJrw" role="3VMn$6">
+          <node concept="3VMn$7" id="1hO7Wi9cJrx" role="3VMn$3">
+            <property role="3VMn$Y" value="Family" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJry" role="3VMn$3">
+            <property role="3VMn$Y" value="of" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrz" role="3VMn$3">
+            <property role="3VMn$Y" value="Internet" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJr$" role="3VMn$3">
+            <property role="3VMn$Y" value="Protocols" />
+          </node>
+        </node>
+      </node>
+      <node concept="Pj2EL" id="1hO7Wi9cJr_" role="lGtFl">
+        <node concept="Pj2EY" id="1hO7Wi9cJrA" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.secure/excel" />
+          <property role="Pj2EV" value="TCP/IP" />
+        </node>
+      </node>
+    </node>
+    <node concept="1Ex9m3" id="4NAzM1S$I_U" role="1ExMwS">
+      <property role="TrG5h" value="CAN" />
+      <property role="DVXpC" value="Controller Area Network" />
+      <node concept="3VMn$a" id="1hO7Wi9cJrD" role="2JHqPs">
+        <node concept="3VMn$0" id="1hO7Wi9cJrE" role="3VMn$6">
+          <node concept="3VMn$7" id="1hO7Wi9cJrF" role="3VMn$3">
+            <property role="3VMn$Y" value="Automotive" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrG" role="3VMn$3">
+            <property role="3VMn$Y" value="Bus" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrH" role="3VMn$3">
+            <property role="3VMn$Y" value="Technology" />
+          </node>
+        </node>
+      </node>
+      <node concept="Pj2EL" id="1hO7Wi9cJrI" role="lGtFl">
+        <node concept="Pj2EY" id="1hO7Wi9cJrJ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.secure/excel" />
+          <property role="Pj2EV" value="CAN" />
+        </node>
+      </node>
+    </node>
+    <node concept="1Ex9m3" id="4NAzM1S$I_u" role="1ExMwS">
+      <property role="TrG5h" value="mobile" />
+      <property role="DVXpC" value="Wireless Mobile Communication" />
+      <node concept="3VMn$a" id="1hO7Wi9cJrM" role="2JHqPs">
+        <node concept="3VMn$0" id="1hO7Wi9cJrN" role="3VMn$6">
+          <node concept="3VMn$7" id="1hO7Wi9cJrO" role="3VMn$3">
+            <property role="3VMn$Y" value="For" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrP" role="3VMn$3">
+            <property role="3VMn$Y" value="example" />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrQ" role="3VMn$3">
+            <property role="3VMn$Y" value="UMTS," />
+          </node>
+          <node concept="3VMn$7" id="1hO7Wi9cJrR" role="3VMn$3">
+            <property role="3VMn$Y" value="GSM" />
+          </node>
+        </node>
+      </node>
+      <node concept="Pj2EL" id="1hO7Wi9cJrS" role="lGtFl">
+        <node concept="Pj2EY" id="1hO7Wi9cJrT" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.secure/excel" />
+          <property role="Pj2EV" value="mobile" />
+        </node>
+      </node>
+    </node>
+  </node>
   <node concept="3eC5pO" id="zhVUb1E0IR">
-    <property role="TrG5h" value="Project Info" />
+    <property role="TrG5h" value="dummy-name-cause-derived-from-constraints" />
     <node concept="39leHu" id="zhVUb1E0IX" role="$s4ey">
       <property role="TrG5h" value="Version History" />
       <node concept="2mR0d" id="zhVUb1E0IY" role="2mR6f">
