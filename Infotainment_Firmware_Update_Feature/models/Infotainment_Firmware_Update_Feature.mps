@@ -145,10 +145,7 @@
       </concept>
     </language>
     <language id="a97beefa-b088-4bdb-8ed8-6b4e554b6264" name="com.moraad.sequences">
-      <concept id="8142618915233841375" name="com.moraad.sequences.structure.SequencesChunk" flags="ng" index="1YSUgs">
-        <child id="8714764149663375283" name="sequences" index="T3T1x" />
-      </concept>
-      <concept id="8142618915233841376" name="com.moraad.sequences.structure.Sequence" flags="ng" index="1YSUgz" />
+      <concept id="8142618915233841375" name="com.moraad.sequences.structure.SequencesChunk" flags="ng" index="1YSUgs" />
     </language>
     <language id="174fc1bc-8a89-4d07-8636-8bc5dc4757e4" name="de.itemis.vcs_text.tables">
       <concept id="312446707538163884" name="de.itemis.vcs_text.tables.structure.SimpleTable" flags="ng" index="2mR0c">
@@ -305,6 +302,8 @@
       <concept id="7050052209593327468" name="com.moraad.components.structure.TOEChannelContentSelector" flags="ng" index="2x4$Td" />
       <concept id="5188113475688114801" name="com.moraad.components.structure.FunctionAssignmentChunk" flags="ng" index="2zckJ6" />
       <concept id="5188113475686638955" name="com.moraad.components.structure.TOEData" flags="ng" index="2zhWjs" />
+      <concept id="2560071392251274778" name="com.moraad.components.structure.TOEFunction" flags="ng" index="Hgtl4" />
+      <concept id="4601417698506916745" name="com.moraad.components.structure.EmptyTOEElement" flags="ng" index="19qcqe" />
       <concept id="3043868224835494634" name="com.moraad.components.structure.TOEChannel" flags="ng" index="3mlHNJ">
         <child id="6453420821188241049" name="endPoints" index="38xWUi" />
         <child id="7233123248602290786" name="dataFlows" index="3XVyOB" />
@@ -4665,12 +4664,17 @@
   <node concept="2lbcm6" id="4ZIixnyTOms">
     <property role="TrG5h" value="Functions" />
     <property role="3GE5qa" value="Item Definition" />
-    <node concept="2zhWjs" id="4ZIixnzkmWH" role="2lbk3h">
-      <property role="TrG5h" value="D.3" />
-      <property role="DVXpC" value="New Firmware" />
-      <node concept="3VMn$a" id="4ZIixnzkmWI" role="2JHqPs" />
-    </node>
     <node concept="2x4$T4" id="1hO7Wi9cJs7" role="2xH1$J" />
+    <node concept="Hgtl4" id="4hDxCVmbkHm" role="2lbk3h">
+      <property role="TrG5h" value="F.1" />
+      <property role="DVXpC" value="Play Radio" />
+      <node concept="3VMn$a" id="4hDxCVmbkHn" role="2JHqPs" />
+    </node>
+    <node concept="Hgtl4" id="4hDxCVmbkHq" role="2lbk3h">
+      <property role="TrG5h" value="F.2" />
+      <property role="DVXpC" value="Connect bluetooth device to Infotainment System" />
+      <node concept="3VMn$a" id="4hDxCVmbkHr" role="2JHqPs" />
+    </node>
   </node>
   <node concept="2lbcm6" id="4ZIixnyTOmv">
     <property role="TrG5h" value="Components" />
@@ -4873,6 +4877,12 @@
       <property role="DVXpC" value="Firmware Request" />
       <node concept="3VMn$a" id="4ZIixnzklAn" role="2JHqPs" />
     </node>
+    <node concept="2zhWjs" id="4ZIixnzkmWH" role="2lbk3h">
+      <property role="TrG5h" value="D.3" />
+      <property role="DVXpC" value="New Firmware" />
+      <node concept="3VMn$a" id="4ZIixnzkmWI" role="2JHqPs" />
+    </node>
+    <node concept="19qcqe" id="4hDxCVmbkH9" role="2lbk3h" />
     <node concept="2x4$T9" id="1hO7Wi9cJsb" role="2xH1$J" />
   </node>
   <node concept="2lbcm6" id="4ZIixnyTOmD">
@@ -5281,10 +5291,6 @@
   <node concept="1YSUgs" id="4ZIixnyTOn5">
     <property role="TrG5h" value="Sequences" />
     <property role="3GE5qa" value="Item Definition" />
-    <node concept="1YSUgz" id="75DNb8dYEf4" role="T3T1x">
-      <property role="TrG5h" value="Seq.1" />
-      <node concept="3VMn$a" id="75DNb8dYEf5" role="2JHqPs" />
-    </node>
   </node>
   <node concept="3eC5pO" id="4ZIixnzkkWf">
     <property role="TrG5h" value="dummy-name-cause-derived-from-constraints" />
