@@ -4675,6 +4675,11 @@
       <property role="DVXpC" value="Connect bluetooth device to Infotainment System" />
       <node concept="3VMn$a" id="4hDxCVmbkHr" role="2JHqPs" />
     </node>
+    <node concept="Hgtl4" id="5DO0A1WY0mT" role="2lbk3h">
+      <property role="TrG5h" value="F.3" />
+      <property role="DVXpC" value="Disconnect bluetooth device from Infotainment System" />
+      <node concept="3VMn$a" id="5DO0A1WY0mU" role="2JHqPs" />
+    </node>
   </node>
   <node concept="2lbcm6" id="4ZIixnyTOmv">
     <property role="TrG5h" value="Components" />
