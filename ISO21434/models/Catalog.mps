@@ -157,9 +157,21 @@
       <node concept="122ZmF" id="4CQftq3lQwz" role="1u4Rdk">
         <ref role="122Z_O" node="4CQftq3lQpA" resolve="TC.4a" />
       </node>
+      <node concept="122ZmF" id="BBoZrGzK8z" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQmG" resolve="TC.2" />
+      </node>
+      <node concept="122ZmF" id="BBoZrGzKal" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQqK" resolve="TC.5" />
+      </node>
       <node concept="3h3ntD" id="3JPVaN3cLYl" role="1u4RdC" />
       <node concept="3RtnZZ" id="6ytiexnPZIW" role="1u4RdF">
         <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzK7i" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzK7U" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3WX1Ss" id="7gwHXN$9zGp" role="1u4RdC" />
       <node concept="3VMn$a" id="6SApaoml3Gw" role="2JHqPs" />
@@ -174,6 +186,9 @@
       </node>
       <node concept="1EY2vJ" id="20XTM5DaykU" role="1BQc1m">
         <ref role="122Z_O" node="4NAzM1S$I_K" resolve="TCP/IP" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKe1" role="1BQc1m">
+        <ref role="122Z_O" node="BBoZrGzKc9" resolve="Bt" />
       </node>
     </node>
     <node concept="EbI1Y" id="4CQftq3lQwU" role="1u4Ppf">
@@ -199,9 +214,21 @@
       <node concept="122ZmF" id="4CQftq3lQx7" role="1u4Rdk">
         <ref role="122Z_O" node="4CQftq3lQpA" resolve="TC.4a" />
       </node>
+      <node concept="122ZmF" id="BBoZrGzKaF" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQmG" resolve="TC.2" />
+      </node>
+      <node concept="122ZmF" id="BBoZrGzKaG" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQqK" resolve="TC.5" />
+      </node>
       <node concept="3h3ntD" id="3JPVaN3cLYm" role="1u4RdC" />
       <node concept="3RtnZZ" id="6ytiexnPZIZ" role="1u4RdF">
         <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzJVj" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzJVP" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3WX1Ss" id="7gwHXN$9zGq" role="1u4RdC" />
       <node concept="3VMn$a" id="6SApaoml3Gx" role="2JHqPs" />
@@ -210,6 +237,74 @@
           <property role="Pj2EV" value="CC.1a" />
           <property role="Pj2ET" value="com.itemis.secure/excel" />
         </node>
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKaY" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_U" resolve="CAN" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKbt" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_K" resolve="TCP/IP" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKdr" role="1BQc1m">
+        <ref role="122Z_O" node="BBoZrGzKc9" resolve="Bt" />
+      </node>
+    </node>
+    <node concept="EbI1Y" id="BBoZrGzKgh" role="1u4Ppf">
+      <property role="TrG5h" value="CC.1b" />
+      <property role="DVXpC" value="DES" />
+      <ref role="323Bpw" node="4CQftq3lQwm" resolve="CC.1" />
+      <node concept="3VMn$a" id="BBoZrGzKgi" role="2JHqPs" />
+      <node concept="13pXwX" id="BBoZrGzKiY" role="1u4RdC" />
+      <node concept="3h3ntD" id="BBoZrGzKiZ" role="1u4RdC" />
+      <node concept="3WX1Ss" id="BBoZrGzKj0" role="1u4RdC" />
+      <node concept="122ZmF" id="BBoZrGzKj1" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQpp" resolve="TC.4" />
+      </node>
+      <node concept="122ZmF" id="BBoZrGzKj2" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQpA" resolve="TC.4a" />
+      </node>
+      <node concept="122ZmF" id="BBoZrGzKj3" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQmG" resolve="TC.2" />
+      </node>
+      <node concept="122ZmF" id="BBoZrGzKj4" role="1u4Rdk">
+        <ref role="122Z_O" node="4CQftq3lQqK" resolve="TC.5" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzKjk" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzKkv" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzKkR" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKl4" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_U" resolve="CAN" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKlp" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_K" resolve="TCP/IP" />
+      </node>
+      <node concept="1EY2vJ" id="BBoZrGzKlL" role="1BQc1m">
+        <ref role="122Z_O" node="BBoZrGzKc9" resolve="Bt" />
+      </node>
+      <node concept="3RtpOr" id="BBoZrGzKmw" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhI" resolve="ET2" />
+      </node>
+      <node concept="3RtpOr" id="BBoZrGzKmE" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="BBoZrGzKmP" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="BBoZrGzKn1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="BBoZrGzKne" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
       </node>
     </node>
     <node concept="EbI1Y" id="1Hnh$uA1dV" role="1u4Ppf">
@@ -221,6 +316,7 @@
       <node concept="122ZmF" id="1Hnh$uA1dY" role="1u4Rdk">
         <ref role="122Z_O" node="4CQftq3lQto" resolve="TC.6a" />
       </node>
+      <node concept="13pXwX" id="BBoZrGzJWG" role="1u4RdC" />
       <node concept="3h3ntD" id="1Hnh$uA1dZ" role="1u4RdC" />
       <node concept="3RtpOr" id="1Hnh$uA1e0" role="3RtpOm">
         <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
@@ -247,6 +343,9 @@
       </node>
       <node concept="3RtnZZ" id="6ytiexnPZJn" role="1u4RdF">
         <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="BBoZrGzJWj" role="1u4RdF">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3WX1Ss" id="7gwHXN$9zGr" role="1u4RdC" />
       <node concept="3VMn$a" id="6SApaoml3Gy" role="2JHqPs" />
@@ -2089,17 +2188,17 @@
       <property role="TrG5h" value="mobile" />
       <property role="DVXpC" value="Wireless Mobile Communication" />
       <node concept="3VMn$a" id="1hO7Wi9cJrM" role="2JHqPs">
-        <node concept="3VMn$0" id="1hO7Wi9cJrN" role="3VMn$6">
-          <node concept="3VMn$7" id="1hO7Wi9cJrO" role="3VMn$3">
+        <node concept="3VMn$0" id="BBoZrGzKbZ" role="3VMn$6">
+          <node concept="3VMn$7" id="BBoZrGzKc0" role="3VMn$3">
             <property role="3VMn$Y" value="For" />
           </node>
-          <node concept="3VMn$7" id="1hO7Wi9cJrP" role="3VMn$3">
+          <node concept="3VMn$7" id="BBoZrGzKc1" role="3VMn$3">
             <property role="3VMn$Y" value="example" />
           </node>
-          <node concept="3VMn$7" id="1hO7Wi9cJrQ" role="3VMn$3">
+          <node concept="3VMn$7" id="BBoZrGzKc2" role="3VMn$3">
             <property role="3VMn$Y" value="UMTS," />
           </node>
-          <node concept="3VMn$7" id="1hO7Wi9cJrR" role="3VMn$3">
+          <node concept="3VMn$7" id="BBoZrGzKc3" role="3VMn$3">
             <property role="3VMn$Y" value="GSM" />
           </node>
         </node>
@@ -2110,6 +2209,11 @@
           <property role="Pj2EV" value="mobile" />
         </node>
       </node>
+    </node>
+    <node concept="1Ex9m3" id="BBoZrGzKc9" role="1ExMwS">
+      <property role="TrG5h" value="Bt" />
+      <property role="DVXpC" value="BlueTooth" />
+      <node concept="3VMn$a" id="BBoZrGzKca" role="2JHqPs" />
     </node>
   </node>
   <node concept="3eC5pO" id="zhVUb1E0IR">
