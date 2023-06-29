@@ -7,7 +7,6 @@
   <imports>
     <import index="qiur" ref="r:8720e696-0fac-4176-a4dc-80083fb5401b(MethodConfiguration)" />
     <import index="qxlf" ref="r:291748f2-3cc9-439c-b64a-e488f1504975(Catalog)" />
-    <import index="kmsp" ref="r:247d20c1-409b-4ace-8e0b-7e5ff4a78a39(de.itemis.ysec.catalog.technologies.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="77390b0e-ab69-4de7-a036-d557f81b479e" name="de.itemis.ysec.catalog.technologies">
@@ -191,16 +190,9 @@
       </concept>
       <concept id="7050052209577206632" name="com.moraad.core.structure.ThreatScenarioContentSelector" flags="ng" index="3u6799" />
     </language>
-    <language id="23c9b2af-fa11-470e-a8b5-5aae9105f1b0" name="de.itemis.mps.serialization">
-      <concept id="7937334018908728723" name="de.itemis.mps.serialization.structure.XmlResolveAnnotation" flags="ng" index="3EyFUJ">
-        <property id="7937334018908728730" name="xmlReference" index="3EyFUA" />
-        <reference id="7937334018908728738" name="link" index="3EyFUu" />
-      </concept>
-    </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1133920641626" name="jetbrains.mps.lang.core.structure.BaseConcept" flags="ng" index="2VYdi">
         <property id="1193676396447" name="virtualPackage" index="3GE5qa" />
-        <child id="5169995583184591170" name="smodelAttribute" index="lGtFl" />
       </concept>
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
         <property id="1169194664001" name="name" index="TrG5h" />
@@ -282,23 +274,11 @@
         <property role="TrG5h" value="Cmp.2" />
         <property role="DVXpC" value="Gateway" />
         <node concept="3VMn$a" id="4ZIixnyU6oi" role="2JHqPs" />
-        <node concept="1EY2vJ" id="4ZIixnyU6uL" role="1BQc1m">
-          <node concept="3EyFUJ" id="4_Xnd$_GATL" role="lGtFl">
-            <property role="3EyFUA" value="ext/com.itemis.secure/excel/TCP/IP" />
-            <ref role="3EyFUu" to="kmsp:1_zjTn1qMOy" resolve="target" />
-          </node>
-        </node>
       </node>
       <node concept="2lbezN" id="4ZIixnyU6oA" role="1b_L45">
         <property role="TrG5h" value="Cmp.3" />
         <property role="DVXpC" value="Telematics Module" />
         <node concept="3VMn$a" id="4ZIixnyU6oB" role="2JHqPs" />
-        <node concept="1EY2vJ" id="4ZIixnyU6uJ" role="1BQc1m">
-          <node concept="3EyFUJ" id="4_Xnd$_GATM" role="lGtFl">
-            <property role="3EyFUA" value="ext/com.itemis.secure/excel/TCP/IP" />
-            <ref role="3EyFUu" to="kmsp:1_zjTn1qMOy" resolve="target" />
-          </node>
-        </node>
       </node>
       <node concept="2lbezN" id="4ZIixnyU6oN" role="1b_L45">
         <property role="TrG5h" value="Cmp.4" />
@@ -306,12 +286,6 @@
         <node concept="3VMn$a" id="4ZIixnyU6oO" role="2JHqPs" />
         <node concept="1EY2vJ" id="4ZIixnyU6uN" role="1BQc1m">
           <ref role="122Z_O" to="qxlf:4NAzM1S$I_U" resolve="CAN" />
-        </node>
-        <node concept="1EY2vJ" id="4ZIixnyU6uS" role="1BQc1m">
-          <node concept="3EyFUJ" id="4_Xnd$_GATO" role="lGtFl">
-            <property role="3EyFUA" value="ext/com.itemis.secure/excel/TCP/IP" />
-            <ref role="3EyFUu" to="kmsp:1_zjTn1qMOy" resolve="target" />
-          </node>
         </node>
       </node>
       <node concept="2lbezN" id="4ZIixnyU6p3" role="1b_L45">
@@ -323,12 +297,6 @@
         </node>
         <node concept="1EY2vJ" id="4ZIixnyU6uW" role="1BQc1m">
           <ref role="122Z_O" to="qxlf:4NAzM1S$I_U" resolve="CAN" />
-        </node>
-        <node concept="1EY2vJ" id="4ZIixnyU6v1" role="1BQc1m">
-          <node concept="3EyFUJ" id="4_Xnd$_GATQ" role="lGtFl">
-            <property role="3EyFUA" value="ext/com.itemis.secure/excel/TCP/IP" />
-            <ref role="3EyFUu" to="kmsp:1_zjTn1qMOy" resolve="target" />
-          </node>
         </node>
       </node>
     </node>
@@ -679,7 +647,7 @@
             <ref role="2Dj$GC" node="4ZIixnyU4ov" resolve="SYS" />
           </node>
           <node concept="raIdw" id="4ZIixnyU4rX" role="2QGid4">
-            <ref role="2ClRH1" to="qiur:4CQftq3lQjb" resolve="A" />
+            <ref role="2ClRH1" to="qiur:4CQftq3lQjb" resolve="Av" />
             <ref role="2Dj$GC" node="4ZIixnyU4ov" resolve="SYS" />
           </node>
         </node>
