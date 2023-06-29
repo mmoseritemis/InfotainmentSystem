@@ -1156,7 +1156,7 @@
         <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
       </node>
       <node concept="3RtnZZ" id="4CQftq3lQqW" role="3Rtpal">
-        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="A" />
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3h3ntD" id="3JPVaN3cLYa" role="3Rtpag" />
       <node concept="3RtpOr" id="4NcsJzPXms4" role="3RtpOm">
@@ -1222,7 +1222,7 @@
       <property role="DVXpC" value="Flooding" />
       <ref role="323Bpw" node="4CQftq3lQqK" resolve="TC.5" />
       <node concept="3RtnZZ" id="4CQftq3lQrG" role="3Rtpal">
-        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="A" />
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3h3ntD" id="3JPVaN3cLYb" role="3Rtpag" />
       <node concept="13pXwX" id="1Fx8SOU6JCP" role="3Rtpag" />
@@ -1361,7 +1361,7 @@
         <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
       </node>
       <node concept="3RtnZZ" id="4CQftq3lQrS" role="3Rtpal">
-        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="A" />
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3h3ntD" id="3JPVaN3cLYc" role="3Rtpag" />
       <node concept="3WX1Ss" id="7gwHXN$9zGl" role="3Rtpag" />
@@ -1449,7 +1449,7 @@
         <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
       </node>
       <node concept="3RtnZZ" id="4CQftq3lQsg" role="3Rtpal">
-        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="A" />
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
       </node>
       <node concept="3h3ntD" id="3JPVaN3cLYd" role="3Rtpag" />
       <node concept="3WX1Ss" id="7gwHXN$9zGm" role="3Rtpag" />
@@ -2236,6 +2236,3743 @@
       </node>
     </node>
     <node concept="$sJSh" id="5n5lVX35TBn" role="$s4ey" />
+  </node>
+  <node concept="3RoBDJ" id="4sJG_Ma1Lrd">
+    <property role="TrG5h" value="ThreatClasses" />
+    <property role="3GE5qa" value="ASRG TCs" />
+    <node concept="3Rgaea" id="4sJG_Ma1Lrf" role="3RoD5G">
+      <property role="TrG5h" value="T.S.000" />
+      <property role="DVXpC" value="Spoofing" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lrg" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lrh" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lri" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lrj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lrl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lrn" role="3RoD5G">
+      <property role="TrG5h" value="T.S.001" />
+      <property role="DVXpC" value="Identity spoofing to an asset using a login with password" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lro" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lrp" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lrq" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lrs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lru" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lrw" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lrx" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lr$" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LrB" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LrE" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LrH" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LrK" role="3RoD5G">
+      <property role="TrG5h" value="T.S.004" />
+      <property role="DVXpC" value="Software package are not from an authorized source" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LrL" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LrM" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LrN" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LrP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LrR" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LrS" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LrV" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LrY" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ls1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ls4" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Ls7" role="3RoD5G">
+      <property role="TrG5h" value="T.S.005" />
+      <property role="DVXpC" value="Hardware components are not from an authorized source" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Ls8" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Ls9" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lsa" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lsc" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lse" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lsg" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lsh" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lsk" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lsn" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lsq" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lst" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lsw" role="3RoD5G">
+      <property role="TrG5h" value="T.S.006" />
+      <property role="DVXpC" value="Spoofing of information externally generated" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lsx" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lsy" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lsz" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Ls_" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LsB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LsD" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LsE" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LsH" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LsK" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LsN" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LsQ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LsT" role="3RoD5G">
+      <property role="TrG5h" value="T.S.007" />
+      <property role="DVXpC" value="Spoofing of information internally generated" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LsU" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LsV" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LsW" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LsY" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lt0" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lt2" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lt3" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lt6" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lt9" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ltc" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ltf" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lti" role="3RoD5G">
+      <property role="TrG5h" value="T.S.008" />
+      <property role="DVXpC" value="Location Spoofing" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Ltj" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Ltk" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Ltl" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Ltn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Ltp" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ltr" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhC" resolve="WoO2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ltu" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ltx" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lt$" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LtB" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LtE" role="3RoD5G">
+      <property role="TrG5h" value="T.S.099" />
+      <property role="DVXpC" value="Exploitation of spoofing weaknesses" />
+      <ref role="323Bpw" node="4sJG_Ma1Lrf" resolve="T.S.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LtF" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LtG" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LtH" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.S.099" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LtJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LtL" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LtN" role="3RoD5G">
+      <property role="TrG5h" value="T.T.000" />
+      <property role="DVXpC" value="Tampering" />
+      <node concept="3VMn$a" id="4sJG_Ma1LtO" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LtP" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LtQ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LtR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LtT" role="3RoD5G">
+      <property role="TrG5h" value="T.T.001" />
+      <property role="DVXpC" value="Manipulation of data from external (transfer)" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LtU" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LtV" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LtW" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LtY" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lu0" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lu1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lu4" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lu7" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lua" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lud" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lug" role="3RoD5G">
+      <property role="TrG5h" value="T.T.002" />
+      <property role="DVXpC" value="Manipulation of data from internal (transfer)" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Luh" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lui" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Luj" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lul" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lun" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Luo" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lur" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Luu" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lux" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lu$" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LuB" role="3RoD5G">
+      <property role="TrG5h" value="T.T.003" />
+      <property role="DVXpC" value="Manipulation (computation)" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LuC" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LuD" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LuE" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LuG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LuI" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LuJ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LuM" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LuP" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LuS" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LuV" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LuY" role="3RoD5G">
+      <property role="TrG5h" value="T.T.004" />
+      <property role="DVXpC" value="Manipulation (memory)" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LuZ" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lv0" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lv1" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lv3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lv5" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lv6" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lv9" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lvc" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lvf" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lvi" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lvl" role="3RoD5G">
+      <property role="TrG5h" value="T.T.005" />
+      <property role="DVXpC" value="Manipulation of Code" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lvm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lvn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lvo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lvq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lvs" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lvt" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhC" resolve="WoO2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lvw" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lvz" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LvA" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhH" resolve="ET1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LvD" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LvG" role="3RoD5G">
+      <property role="TrG5h" value="T.T.006" />
+      <property role="DVXpC" value="Parameter Injection" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LvH" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LvI" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LvJ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LvL" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LvN" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LvO" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LvR" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LvU" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LvX" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lw0" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lw3" role="3RoD5G">
+      <property role="TrG5h" value="T.T.007" />
+      <property role="DVXpC" value="Code Injection" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lw4" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lw5" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lw6" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lw8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lwa" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lwb" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lwe" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lwh" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lwk" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lwn" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lwq" role="3RoD5G">
+      <property role="TrG5h" value="T.T.008" />
+      <property role="DVXpC" value="Command Injection" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lwr" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lws" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lwt" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lwv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lwx" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lwy" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lw_" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LwC" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LwF" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LwI" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LwL" role="3RoD5G">
+      <property role="TrG5h" value="T.T.010" />
+      <property role="DVXpC" value="Replay attack" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LwM" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LwN" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LwO" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.010" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LwQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LwS" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LwT" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LwW" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LwZ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lx2" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lx5" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lx8" role="3RoD5G">
+      <property role="TrG5h" value="T.T.011" />
+      <property role="DVXpC" value="Configuration/Settings Manipulation" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lx9" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lxa" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lxb" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.011" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lxd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lxf" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lxg" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lxj" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lxm" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lxp" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lxs" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lxv" role="3RoD5G">
+      <property role="TrG5h" value="T.T.012" />
+      <property role="DVXpC" value="Protocol Manipulation" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lxw" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lxx" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lxy" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.012" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lx$" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LxA" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LxB" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LxE" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LxH" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LxK" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LxN" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LxQ" role="3RoD5G">
+      <property role="TrG5h" value="T.T.099" />
+      <property role="DVXpC" value="Exploitation of tampering weaknesses" />
+      <ref role="323Bpw" node="4sJG_Ma1LtN" resolve="T.T.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LxR" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LxS" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LxT" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.T.099" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LxV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LxX" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LxY" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ly1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ly4" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Ly7" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lya" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lyd" role="3RoD5G">
+      <property role="TrG5h" value="T.R.000" />
+      <property role="DVXpC" value="Repudiation" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lye" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lyf" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lyg" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.R.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lyh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lyj" role="3RoD5G">
+      <property role="TrG5h" value="T.R.099" />
+      <property role="DVXpC" value="Exploitation of repudiation weaknesses" />
+      <ref role="323Bpw" node="4sJG_Ma1Lyd" resolve="T.R.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lyk" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lyl" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lym" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.R.099" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lyo" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lyq" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lyt" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lyw" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lyz" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LyA" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LyD" role="3RoD5G">
+      <property role="TrG5h" value="T.I.000" />
+      <property role="DVXpC" value="Information Disclosure" />
+      <node concept="3VMn$a" id="4sJG_Ma1LyE" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LyF" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LyG" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LyH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LyJ" role="3RoD5G">
+      <property role="TrG5h" value="T.I.001" />
+      <property role="DVXpC" value="Interception" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LyK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LyL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LyM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LyO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LyQ" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LyR" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LyU" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LyX" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lz0" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lz3" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lz6" role="3RoD5G">
+      <property role="TrG5h" value="T.I.008" />
+      <property role="DVXpC" value="Interception of Internal Data" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lz7" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lz8" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lz9" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lzb" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lzd" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lze" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhC" resolve="WoO2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lzh" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lzk" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lzn" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1Lzq" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1Lzt" role="3RoD5G">
+      <property role="TrG5h" value="T.I.009" />
+      <property role="DVXpC" value="Interception of External Data" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1Lzu" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1Lzv" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1Lzw" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.009" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1Lzy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1Lz$" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1Lz_" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LzC" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LzF" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LzI" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LzL" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LzO" role="3RoD5G">
+      <property role="TrG5h" value="T.I.005" />
+      <property role="DVXpC" value="Unattended Disclosure of PII Data" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LzP" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LzQ" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LzR" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LzT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LzV" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LzW" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LzZ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$2" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$5" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$8" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L$b" role="3RoD5G">
+      <property role="TrG5h" value="T.I.006" />
+      <property role="DVXpC" value="Software/Firmware Disclosure" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1L$c" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L$d" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L$e" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L$g" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1L$i" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1L$j" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$m" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$p" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$s" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$v" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L$y" role="3RoD5G">
+      <property role="TrG5h" value="T.I.007" />
+      <property role="DVXpC" value="Functional Observation" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1L$z" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L$$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L$_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L$B" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1L$D" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1L$E" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$H" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhC" resolve="WoO2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$K" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$N" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L$Q" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L$T" role="3RoD5G">
+      <property role="TrG5h" value="T.I.002" />
+      <property role="DVXpC" value="Reverse Engineering" />
+      <ref role="323Bpw" node="4sJG_Ma1LyD" resolve="T.I.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1L$U" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L$V" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L$W" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.I.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L$Y" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1L_0" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1L_1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_4" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_7" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhI" resolve="ET2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_a" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_d" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L_g" role="3RoD5G">
+      <property role="TrG5h" value="T.D.000" />
+      <property role="DVXpC" value="Denial of Service" />
+      <node concept="3VMn$a" id="4sJG_Ma1L_h" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L_i" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L_j" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L_k" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L_m" role="3RoD5G">
+      <property role="TrG5h" value="T.D.001" />
+      <property role="DVXpC" value="Disrupt transmission (wireless)" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1L_n" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L_o" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L_p" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L_r" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1L_t" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1L_u" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_x" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_$" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_B" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_E" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1L_H" role="3RoD5G">
+      <property role="TrG5h" value="T.D.002" />
+      <property role="DVXpC" value="Disrupt transmission (wired)" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1L_I" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1L_J" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1L_K" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1L_M" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1L_O" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1L_P" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_S" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_V" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1L_Y" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LA1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LA4" role="3RoD5G">
+      <property role="TrG5h" value="T.D.003" />
+      <property role="DVXpC" value="Disrupt computation" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LA5" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LA6" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LA7" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LA9" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LAb" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LAc" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAf" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAi" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAl" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAo" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LAr" role="3RoD5G">
+      <property role="TrG5h" value="T.D.004" />
+      <property role="DVXpC" value="Flooding" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LAs" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LAt" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LAu" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LAw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LAy" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LAz" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAA" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAD" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAG" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAJ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LAM" role="3RoD5G">
+      <property role="TrG5h" value="T.D.005" />
+      <property role="DVXpC" value="Jamming" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LAN" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LAO" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LAP" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LAR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LAT" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LAU" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LAX" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LB0" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LB3" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LB6" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LB9" role="3RoD5G">
+      <property role="TrG5h" value="T.D.006" />
+      <property role="DVXpC" value="GPS jamming" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LBa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LBb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LBc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LBe" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LBg" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LBh" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBk" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBn" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBq" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBt" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhQ" resolve="KoIC0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LBw" role="3RoD5G">
+      <property role="TrG5h" value="T.D.007" />
+      <property role="DVXpC" value="Excessive Allocation of Resources" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LBx" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LBy" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LBz" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LB_" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LBB" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LBC" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBF" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBI" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBL" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhH" resolve="ET1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LBO" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LBR" role="3RoD5G">
+      <property role="TrG5h" value="T.D.008" />
+      <property role="DVXpC" value="Resource Leak Exposure and Depletion" />
+      <ref role="323Bpw" node="4sJG_Ma1L_g" resolve="T.D.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LBS" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LBT" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LBU" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.D.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LBW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LBY" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LBZ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LC2" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LC5" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LC8" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhH" resolve="ET1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCb" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhz" resolve="SE2" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LCe" role="3RoD5G">
+      <property role="TrG5h" value="T.E.000" />
+      <property role="DVXpC" value="Elevation of privilege" />
+      <node concept="3VMn$a" id="4sJG_Ma1LCf" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LCg" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LCh" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.000" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LCi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LCk" role="3RoD5G">
+      <property role="TrG5h" value="T.E.001" />
+      <property role="DVXpC" value="Privilege escalation (access)" />
+      <ref role="323Bpw" node="4sJG_Ma1LCe" resolve="T.E.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LCl" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LCm" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LCn" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LCp" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LCr" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LCs" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCv" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCy" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LC_" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCC" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LCF" role="3RoD5G">
+      <property role="TrG5h" value="T.E.002" />
+      <property role="DVXpC" value="Privilege escalation (processing)" />
+      <ref role="323Bpw" node="4sJG_Ma1LCe" resolve="T.E.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LCG" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LCH" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LCI" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LCK" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LCM" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LCN" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCQ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhB" resolve="WoO1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCT" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhS" resolve="KoIC2" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCW" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LCZ" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LD2" role="3RoD5G">
+      <property role="TrG5h" value="T.E.003" />
+      <property role="DVXpC" value="Privilege abuse" />
+      <ref role="323Bpw" node="4sJG_Ma1LCe" resolve="T.E.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LD3" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LD4" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LD5" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LD7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LD9" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LDa" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDd" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDg" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDj" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDm" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LDp" role="3RoD5G">
+      <property role="TrG5h" value="T.E.004" />
+      <property role="DVXpC" value="Man-in-the-Middle Attack" />
+      <ref role="323Bpw" node="4sJG_Ma1LCe" resolve="T.E.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LDq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LDr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LDs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LDu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LDw" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LDx" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LD$" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDB" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhL" resolve="Eq0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDE" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhy" resolve="SE1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDH" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LDK" role="3RoD5G">
+      <property role="TrG5h" value="T.E.005" />
+      <property role="DVXpC" value="Development Channels Open" />
+      <ref role="323Bpw" node="4sJG_Ma1LCe" resolve="T.E.000" />
+      <node concept="3VMn$a" id="4sJG_Ma1LDL" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LDM" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LDN" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.E.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LDP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3h3ntD" id="4sJG_Ma1LDR" role="3Rtpag" />
+      <node concept="3RtpOr" id="4sJG_Ma1LDS" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQh_" resolve="WoO" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhA" resolve="WoO0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDV" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhK" resolve="Eq" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhM" resolve="Eq1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LDY" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhP" resolve="KoIC" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhR" resolve="KoIC1" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LE1" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhw" resolve="SE" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhx" resolve="SE0" />
+      </node>
+      <node concept="3RtpOr" id="4sJG_Ma1LE4" role="3RtpOm">
+        <ref role="3RtpOq" to="qiur:4CQftq3lQhE" resolve="ET" />
+        <ref role="3RtpRB" to="qiur:4CQftq3lQhG" resolve="ET0" />
+      </node>
+    </node>
+  </node>
+  <node concept="3RoBDJ" id="4sJG_Ma1LE7">
+    <property role="TrG5h" value="AutoThreatMatrix" />
+    <property role="3GE5qa" value="ASRG TCs" />
+    <node concept="3Rgaea" id="4sJG_Ma1LE9" role="3RoD5G">
+      <property role="TrG5h" value="T.M.001" />
+      <property role="DVXpC" value="Manipulate Environment" />
+      <node concept="3VMn$a" id="4sJG_Ma1LEa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LEb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LEc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="1EY2vJ" id="4sJG_Ma1LEj" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_u" resolve="mobile" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LEl" role="3RoD5G">
+      <property role="TrG5h" value="T.M.002" />
+      <property role="DVXpC" value="Adversarial Machine Learning" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LEm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LEn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LEo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LEw" role="3RoD5G">
+      <property role="TrG5h" value="T.M.003" />
+      <property role="DVXpC" value="Analog Sensor Attacks" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LEx" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LEy" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LEz" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LE_" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LED" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LEF" role="3RoD5G">
+      <property role="TrG5h" value="T.M.004" />
+      <property role="DVXpC" value="Downgrade to Insecure Protocols" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LEG" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LEH" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LEI" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEK" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEM" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LEQ" role="3RoD5G">
+      <property role="TrG5h" value="T.M.005" />
+      <property role="DVXpC" value="Jamming or Denial of Service" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LER" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LES" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LET" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEX" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LEZ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LF1" role="3RoD5G">
+      <property role="TrG5h" value="T.M.006" />
+      <property role="DVXpC" value="Manipulate Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LF2" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LF3" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LF4" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LF6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LF8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFa" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LFc" role="3RoD5G">
+      <property role="TrG5h" value="T.M.007" />
+      <property role="DVXpC" value="Relay Communications" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LFd" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LFe" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LFf" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LFn" role="3RoD5G">
+      <property role="TrG5h" value="T.M.008" />
+      <property role="DVXpC" value="Rogue Cellular Base Station" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LFo" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LFp" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LFq" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LFy" role="3RoD5G">
+      <property role="TrG5h" value="T.M.009" />
+      <property role="DVXpC" value="Rogue Wi-Fi Access Point" />
+      <ref role="323Bpw" node="4sJG_Ma1LE9" resolve="T.M.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LFz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LF$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LF_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.M.009" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="1EY2vJ" id="4sJG_Ma1LFH" role="1BQc1m">
+        <ref role="122Z_O" node="4NAzM1S$I_u" resolve="mobile" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LFJ" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.001" />
+      <property role="DVXpC" value="Initial Access" />
+      <node concept="3VMn$a" id="4sJG_Ma1LFK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LFL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LFM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFN" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LFT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LFV" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.002" />
+      <property role="DVXpC" value="Browser Compromise" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LFW" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LFX" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LFY" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LG0" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LG2" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LG4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LG6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LG8" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.003" />
+      <property role="DVXpC" value="Exploit Via Radio Interface" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LG9" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LGa" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LGb" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LGl" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.004" />
+      <property role="DVXpC" value="Exploit Via Removable Media" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LGm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LGn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LGo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LGy" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.005" />
+      <property role="DVXpC" value="Malicious App" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LGz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LG$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LG_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LGJ" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.006" />
+      <property role="DVXpC" value="Phishing" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LGK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LGL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LGM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LGU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LGW" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.007" />
+      <property role="DVXpC" value="Physical Modification" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LGX" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LGY" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LGZ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LH1" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LH3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LH5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LH7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LH9" role="3RoD5G">
+      <property role="TrG5h" value="T.IA.008" />
+      <property role="DVXpC" value="Supply Chain Compromise" />
+      <ref role="323Bpw" node="4sJG_Ma1LFJ" resolve="T.IA.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LHb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LHc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.IA.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHe" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHg" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHk" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LHm" role="3RoD5G">
+      <property role="TrG5h" value="T.Ex.001" />
+      <property role="DVXpC" value="Execution" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHn" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LHo" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LHp" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ex.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LHw" role="3RoD5G">
+      <property role="TrG5h" value="T.Ex.002" />
+      <property role="DVXpC" value="Command and Scripting Interpreter" />
+      <ref role="323Bpw" node="4sJG_Ma1LHm" resolve="T.Ex.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHx" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LHy" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LHz" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ex.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LH_" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LHF" role="3RoD5G">
+      <property role="TrG5h" value="T.Ex.003" />
+      <property role="DVXpC" value="Native API" />
+      <ref role="323Bpw" node="4sJG_Ma1LHm" resolve="T.Ex.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHG" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LHH" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LHI" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ex.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHK" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHM" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LHQ" role="3RoD5G">
+      <property role="TrG5h" value="T.P.001" />
+      <property role="DVXpC" value="Persistence" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHR" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LHS" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LHT" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.P.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LHW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LHY" role="3RoD5G">
+      <property role="TrG5h" value="T.P.002" />
+      <property role="DVXpC" value="Abuse UDS For Persistence" />
+      <ref role="323Bpw" node="4sJG_Ma1LHQ" resolve="T.P.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LHZ" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LI0" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LI1" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.P.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LI3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LI5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LI7" role="3RoD5G">
+      <property role="TrG5h" value="T.P.003" />
+      <property role="DVXpC" value="Disable Software Update" />
+      <ref role="323Bpw" node="4sJG_Ma1LHQ" resolve="T.P.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LI8" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LI9" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LIa" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.P.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIc" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIe" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LIg" role="3RoD5G">
+      <property role="TrG5h" value="T.P.004" />
+      <property role="DVXpC" value="Modify OS Kernel, Boot Partition, or System Partition" />
+      <ref role="323Bpw" node="4sJG_Ma1LHQ" resolve="T.P.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LIh" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LIi" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LIj" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.P.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LIp" role="3RoD5G">
+      <property role="TrG5h" value="T.P.005" />
+      <property role="DVXpC" value="Modify TEE" />
+      <ref role="323Bpw" node="4sJG_Ma1LHQ" resolve="T.P.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LIq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LIr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LIs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.P.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LIy" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.001" />
+      <property role="DVXpC" value="Privilege Escalation" />
+      <node concept="3VMn$a" id="4sJG_Ma1LIz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LI$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LI_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIA" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIC" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIE" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LII" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.002" />
+      <property role="DVXpC" value="Abuse Elevation Control Mechanism" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LIJ" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LIK" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LIL" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIN" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LIT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LIV" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.003" />
+      <property role="DVXpC" value="Exploit Co-Located Computing Device for Privilege Escalation" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LIW" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LIX" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LIY" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJ0" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJ2" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJ4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJ6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LJ8" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.004" />
+      <property role="DVXpC" value="Exploit OS Vulnerability" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LJ9" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LJa" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LJb" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LJl" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.005" />
+      <property role="DVXpC" value="Exploit TEE Vulnerability" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LJm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LJn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LJo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LJy" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.006" />
+      <property role="DVXpC" value="Hardware Fault Injection" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LJz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LJ$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LJ_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LJJ" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.007" />
+      <property role="DVXpC" value="Process Injection" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LJK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LJL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LJM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LJU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LJW" role="3RoD5G">
+      <property role="TrG5h" value="T.Pe.008" />
+      <property role="DVXpC" value="Reporgram Co-Located Computing Device for Privilege Escalation" />
+      <ref role="323Bpw" node="4sJG_Ma1LIy" resolve="T.Pe.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LJX" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LJY" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LJZ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Pe.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LK1" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LK3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LK5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LK7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LK9" role="3RoD5G">
+      <property role="TrG5h" value="T.De.001" />
+      <property role="DVXpC" value="Defense Evasion" />
+      <node concept="3VMn$a" id="4sJG_Ma1LKa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LKb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LKc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.De.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LKl" role="3RoD5G">
+      <property role="TrG5h" value="T.De.002" />
+      <property role="DVXpC" value="Bypass Code Signing" />
+      <ref role="323Bpw" node="4sJG_Ma1LK9" resolve="T.De.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LKm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LKn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LKo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.De.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LKy" role="3RoD5G">
+      <property role="TrG5h" value="T.De.003" />
+      <property role="DVXpC" value="Disable Firewall" />
+      <ref role="323Bpw" node="4sJG_Ma1LK9" resolve="T.De.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LKz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LK$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LK_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.De.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LKJ" role="3RoD5G">
+      <property role="TrG5h" value="T.De.004" />
+      <property role="DVXpC" value="Bypass UDS Security Access" />
+      <ref role="323Bpw" node="4sJG_Ma1LK9" resolve="T.De.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LKK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LKL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LKM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.De.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LKU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LKW" role="3RoD5G">
+      <property role="TrG5h" value="T.De.005" />
+      <property role="DVXpC" value="Bypass Mandatory Access Control" />
+      <ref role="323Bpw" node="4sJG_Ma1LK9" resolve="T.De.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LKX" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LKY" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LKZ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.De.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LL1" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LL3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LL5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LL7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LL9" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.001" />
+      <property role="DVXpC" value="Credential Access" />
+      <node concept="3VMn$a" id="4sJG_Ma1LLa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LLb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LLc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLd" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LLl" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.002" />
+      <property role="DVXpC" value="Capture SMS Message" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LLm" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LLn" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LLo" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLq" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LLy" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.003" />
+      <property role="DVXpC" value="Exploiit TEE Vulnerability" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LLz" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LL$" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LL_" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLB" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LLJ" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.004" />
+      <property role="DVXpC" value="Input Capture" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LLK" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LLL" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LLM" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLO" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LLU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LLW" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.005" />
+      <property role="DVXpC" value="Input Prompt" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LLX" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LLY" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LLZ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LM1" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LM3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LM5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LM7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LM9" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.006" />
+      <property role="DVXpC" value="Network Sniffing" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LMa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LMb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LMc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMe" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMg" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMk" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LMm" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.007" />
+      <property role="DVXpC" value="OS Credential Dumping" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LMn" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LMo" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LMp" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMr" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMt" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMx" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LMz" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.008" />
+      <property role="DVXpC" value="Unsecured Credentials" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LM$" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LM_" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LMA" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMC" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LME" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMI" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LMK" role="3RoD5G">
+      <property role="TrG5h" value="T.Ca.009" />
+      <property role="DVXpC" value="URI Hijacking" />
+      <ref role="323Bpw" node="4sJG_Ma1LL9" resolve="T.Ca.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LML" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LMM" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LMN" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Ca.009" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LMV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LMX" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.001" />
+      <property role="DVXpC" value="Discovery" />
+      <node concept="3VMn$a" id="4sJG_Ma1LMY" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LMZ" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LN0" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LN1" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LN3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LN5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LN7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LN9" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.002" />
+      <property role="DVXpC" value="File and Directory Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LNa" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LNb" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LNc" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNe" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNg" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNk" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LNm" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.003" />
+      <property role="DVXpC" value="Location Tracking" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LNn" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LNo" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LNp" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNr" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNt" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNx" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LNz" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.004" />
+      <property role="DVXpC" value="Network Service Scanning" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LN$" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LN_" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LNA" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNC" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNE" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNI" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LNK" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.005" />
+      <property role="DVXpC" value="Process Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LNL" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LNM" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LNN" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LNV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LNX" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.006" />
+      <property role="DVXpC" value="Software Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LNY" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LNZ" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LO0" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LO2" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LO4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LO6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LO8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LOa" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.007" />
+      <property role="DVXpC" value="System Information Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LOb" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LOc" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LOd" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LOn" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.008" />
+      <property role="DVXpC" value="System Network Configuration Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LOo" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LOp" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LOq" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LO$" role="3RoD5G">
+      <property role="TrG5h" value="T.Di.009" />
+      <property role="DVXpC" value="System Network Connections Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LMX" resolve="T.Di.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LO_" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LOA" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LOB" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Di.009" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LOL" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.001" />
+      <property role="DVXpC" value="Lateral Movement" />
+      <node concept="3VMn$a" id="4sJG_Ma1LOM" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LON" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LOO" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOP" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LOV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LOX" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.002" />
+      <property role="DVXpC" value="Abuse UDS for Lateral Movement" />
+      <ref role="323Bpw" node="4sJG_Ma1LOL" resolve="T.Lm.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LOY" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LOZ" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LP0" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LP2" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LP4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LP6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LP8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LPa" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.003" />
+      <property role="DVXpC" value="Bridge Vehicle Networks" />
+      <ref role="323Bpw" node="4sJG_Ma1LOL" resolve="T.Lm.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LPb" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LPc" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LPd" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LPn" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.004" />
+      <property role="DVXpC" value="Exploit ECU for Lateral Movement" />
+      <ref role="323Bpw" node="4sJG_Ma1LOL" resolve="T.Lm.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LPo" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LPp" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LPq" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LP$" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.005" />
+      <property role="DVXpC" value="Remote Services" />
+      <ref role="323Bpw" node="4sJG_Ma1LOL" resolve="T.Lm.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LP_" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LPA" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LPB" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LPL" role="3RoD5G">
+      <property role="TrG5h" value="T.Lm.006" />
+      <property role="DVXpC" value="Reprogram ECU for Lateral Movement" />
+      <ref role="323Bpw" node="4sJG_Ma1LOL" resolve="T.Lm.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LPM" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LPN" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LPO" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Lm.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LPW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LPY" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.001" />
+      <property role="DVXpC" value="Collection" />
+      <node concept="3VMn$a" id="4sJG_Ma1LPZ" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LQ0" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LQ1" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQ2" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQ4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQ6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQ8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LQa" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.002" />
+      <property role="DVXpC" value="Abuse UDS for Collection" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LQb" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LQc" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LQd" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQf" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LQn" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.003" />
+      <property role="DVXpC" value="Access Personal Information" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LQo" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LQp" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LQq" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQs" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LQ$" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.004" />
+      <property role="DVXpC" value="Access Vehicle Telemetry" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LQ_" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LQA" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LQB" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQD" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LQL" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.005" />
+      <property role="DVXpC" value="Capture Camera or Audio" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LQM" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LQN" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LQO" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQQ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LQW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LQY" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.006" />
+      <property role="DVXpC" value="Capture SMS Message" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LQZ" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LR0" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LR1" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LR3" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LR5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LR7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LR9" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LRb" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.007" />
+      <property role="DVXpC" value="Data from Local System" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LRc" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LRd" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LRe" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRg" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRk" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRm" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LRo" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.008" />
+      <property role="DVXpC" value="Input Capture" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LRp" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LRq" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LRr" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.008" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRt" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRx" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRz" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LR_" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.009" />
+      <property role="DVXpC" value="Location Tracking" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LRA" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LRB" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LRC" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.009" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRE" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRI" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRK" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LRM" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.010" />
+      <property role="DVXpC" value="Network Information Discovery" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LRN" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LRO" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LRP" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.010" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LRX" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LRZ" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.011" />
+      <property role="DVXpC" value="Network Traffic Capture or Redirection" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LS0" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LS1" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LS2" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.011" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LS4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LS6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LS8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSa" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LSc" role="3RoD5G">
+      <property role="TrG5h" value="T.Co.012" />
+      <property role="DVXpC" value="Screen Capture" />
+      <ref role="323Bpw" node="4sJG_Ma1LPY" resolve="T.Co.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LSd" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LSe" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LSf" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Co.012" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LSp" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.001" />
+      <property role="DVXpC" value="Command and Control" />
+      <node concept="3VMn$a" id="4sJG_Ma1LSq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LSr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LSs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSt" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSx" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSz" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LS_" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.002" />
+      <property role="DVXpC" value="Aftermarket Customer, or Dealer Equipment" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LSA" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LSB" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LSC" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSE" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSG" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSI" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSK" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LSM" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.003" />
+      <property role="DVXpC" value="Cellular Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LSN" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LSO" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LSP" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LST" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LSX" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LSZ" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.004" />
+      <property role="DVXpC" value="Internet Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LT0" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LT1" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LT2" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LT4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LT6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LT8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTa" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LTc" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.005" />
+      <property role="DVXpC" value="Recieve-Only Communication Channel" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LTd" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LTe" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LTf" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LTp" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.006" />
+      <property role="DVXpC" value="Short Range Wireless Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LTq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LTr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LTs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LT$" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LTA" role="3RoD5G">
+      <property role="TrG5h" value="T.Cac.007" />
+      <property role="DVXpC" value="Standard Cryptographic Protocol" />
+      <ref role="323Bpw" node="4sJG_Ma1LSp" resolve="T.Cac.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LTB" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LTC" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LTD" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Cac.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTL" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LTN" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.001" />
+      <property role="DVXpC" value="Exfiltration" />
+      <node concept="3VMn$a" id="4sJG_Ma1LTO" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LTP" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LTQ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTR" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTT" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTV" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LTX" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LTZ" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.002" />
+      <property role="DVXpC" value="Aftermarket, Customer, or Dealer Equipment" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LU0" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LU1" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LU2" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LU4" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LU6" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LU8" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUa" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LUc" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.003" />
+      <property role="DVXpC" value="Cellular Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LUd" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LUe" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LUf" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LUp" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.004" />
+      <property role="DVXpC" value="Internet Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LUq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LUr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LUs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LU$" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LUA" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.005" />
+      <property role="DVXpC" value="Removeable Media" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LUB" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LUC" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LUD" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUL" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LUN" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.006" />
+      <property role="DVXpC" value="Short Range Wireless Communication" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LUO" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LUP" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LUQ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LUY" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LV0" role="3RoD5G">
+      <property role="TrG5h" value="T.Exf.007" />
+      <property role="DVXpC" value="Standard Cryptographic Protocol" />
+      <ref role="323Bpw" node="4sJG_Ma1LTN" resolve="T.Exf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LV1" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LV2" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LV3" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Exf.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LV5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LV7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LV9" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVb" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LVd" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.001" />
+      <property role="DVXpC" value="Affect Vehicle Function" />
+      <node concept="3VMn$a" id="4sJG_Ma1LVe" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LVf" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LVg" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.001" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVh" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVj" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVl" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVn" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LVp" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.002" />
+      <property role="DVXpC" value="Adversarial Machine Learning" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LVq" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LVr" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LVs" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.002" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVu" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVw" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVy" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LV$" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LVA" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.003" />
+      <property role="DVXpC" value="Abuse UDS for Affecting Vehicle Function" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LVB" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LVC" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LVD" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.003" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVF" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVH" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVJ" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVL" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LVN" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.004" />
+      <property role="DVXpC" value="CAN Bus Denial of Service" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LVO" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LVP" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LVQ" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.004" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVS" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVU" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVW" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LVY" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LW0" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.005" />
+      <property role="DVXpC" value="Local Function" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LW1" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LW2" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LW3" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.005" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LW5" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LW7" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LW9" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWb" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LWd" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.006" />
+      <property role="DVXpC" value="Modify Bus Message" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LWe" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LWf" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LWg" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.006" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWi" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWk" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWm" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWo" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
+    <node concept="3Rgaea" id="4sJG_Ma1LWq" role="3RoD5G">
+      <property role="TrG5h" value="T.Avf.007" />
+      <property role="DVXpC" value="Unintended Vehicle Network Message" />
+      <ref role="323Bpw" node="4sJG_Ma1LVd" resolve="T.Avf.001" />
+      <node concept="3VMn$a" id="4sJG_Ma1LWr" role="2JHqPs" />
+      <node concept="Pj2EL" id="4sJG_Ma1LWs" role="lGtFl">
+        <node concept="Pj2EY" id="4sJG_Ma1LWt" role="Pj2E$">
+          <property role="Pj2ET" value="com.itemis.itemis-xsam-export" />
+          <property role="Pj2EV" value="T.Avf.007" />
+        </node>
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWv" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4sJG_Ma1JSM" resolve="Au" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWx" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjb" resolve="Av" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LWz" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQja" resolve="C" />
+      </node>
+      <node concept="3RtnZZ" id="4sJG_Ma1LW_" role="3Rtpal">
+        <ref role="122Z_O" to="qiur:4CQftq3lQjc" resolve="I" />
+      </node>
+    </node>
   </node>
 </model>
 
