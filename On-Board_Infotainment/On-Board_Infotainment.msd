@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="On-Board Infotainment" uuid="881e20ff-4c7c-4d8a-88c1-6b0b7eec51b4" moduleVersion="0" compileInMPS="true">
+<solution name="On-Board_Infotainment" uuid="881e20ff-4c7c-4d8a-88c1-6b0b7eec51b4" moduleVersion="0" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
